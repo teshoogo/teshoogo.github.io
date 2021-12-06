@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rci luctus &#8211; Cloud Games</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Jogos Click to Play via nuvem</description>
+	<lastBuildDate>Fri, 18 Jul 2014 06:28:51 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-fav-cloud-games-32x32.png</url>
+	<title>Rci luctus &#8211; Cloud Games</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Demo post 13</title>
+		<link>./../../../demo-post-13/index.html</link>
+					<comments>./../../../demo-post-13/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2014 06:28:51 +0000</pubDate>
+				<category><![CDATA[Rci luctus]]></category>
+		<guid isPermaLink="false">http://alka-web.com/post13</guid>
+
+					<description><![CDATA[Definition list Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad [&#8230;]]]></description>
+										<content:encoded><![CDATA[<dl>
+<dt>Definition list</dt>
+<dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna<br />
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea<br />
+commodo consequat.</dd>
+<dt>Lorem ipsum dolor sit amet</dt>
+<dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna<br />
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea<br />
+commodo consequat.</dd>
+</dl>
+<p><img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /></p>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
+</blockquote>
+<h3>Header Level 3</h3>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+</ul>
+<h3>Header Level 3</h3>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+</ul>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../demo-post-13/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre Cloud Games	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Jogos Click to Play via nuvem</description>
+	<lastBuildDate>Mon, 07 Dec 2015 14:47:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Comentário sobre This is a News sample por Oliver Queen		</title>
+		<link>./../../this-is-a-news-sample/index.html#comment-7</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 11:25:39 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?p=154#comment-7</guid>
+
+					<description><![CDATA[Another test comment]]></description>
+			<content:encoded><![CDATA[<p>Another test comment</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre This is a News sample por Oliver Queen		</title>
+		<link>./../../this-is-a-news-sample/index.html#comment-6</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 11:25:02 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?p=154#comment-6</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;./../../this-is-a-news-sample/index.html#comment-5&quot;&gt;Oliver Queen&lt;/a&gt;.
+
+My Test Comment]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="./../../this-is-a-news-sample/index.html#comment-5">Oliver Queen</a>.</p>
+<p>My Test Comment</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre Project Example por Oliver Queen		</title>
+		<link>./../../project/project-example/index.html#comment-27</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 11:09:09 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=221#comment-27</guid>
+
+					<description><![CDATA[Done!]]></description>
+			<content:encoded><![CDATA[<p>Done!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre Writing Post por woadmin		</title>
+		<link>./../../wiki/writing-post/index.html#comment-40</link>
+
+		<dc:creator><![CDATA[woadmin]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 04:50:17 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=wiki&#038;p=208#comment-40</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;./../../wiki/writing-post/index.html#comment-39&quot;&gt;Oliver Queen&lt;/a&gt;.
+
+Thanks ! :)
+
+2F]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="./../../wiki/writing-post/index.html#comment-39">Oliver Queen</a>.</p>
+<p>Thanks ! 🙂</p>
+<p>2F</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre Project Example por Felicity Smoak		</title>
+		<link>./../../project/project-example/index.html#comment-23</link>
+
+		<dc:creator><![CDATA[Felicity Smoak]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 03:35:20 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=221#comment-23</guid>
+
+					<description><![CDATA[This is just reply comment test]]></description>
+			<content:encoded><![CDATA[<p>This is just reply comment test</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre Writing Post por Oliver Queen		</title>
+		<link>./../../wiki/writing-post/index.html#comment-39</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 02:02:03 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=wiki&#038;p=208#comment-39</guid>
+
+					<description><![CDATA[i have been looking for a nice looking home intranet (maybe extranet) page that is secure enough for  general use instead of loading boring looking google all the time or fishing around multiple computers and external drives for important files etc.  I know this theme is much much more than that but it looks like you are thinking well about these sorts of things. Good Luck!]]></description>
+			<content:encoded><![CDATA[<p>i have been looking for a nice looking home intranet (maybe extranet) page that is secure enough for  general use instead of loading boring looking google all the time or fishing around multiple computers and external drives for important files etc.  I know this theme is much much more than that but it looks like you are thinking well about these sorts of things. Good Luck!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre Project Example por Oliver Queen		</title>
+		<link>./../../project/project-example/index.html#comment-20</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 01:19:30 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=221#comment-20</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;./../../project/project-example/index.html#comment-14&quot;&gt;woadmin&lt;/a&gt;.
+
+Testing reply, looks good]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="./../../project/project-example/index.html#comment-14">woadmin</a>.</p>
+<p>Testing reply, looks good</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre This is a News sample por Oliver Queen		</title>
+		<link>./../../this-is-a-news-sample/index.html#comment-5</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2015 16:53:09 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?p=154#comment-5</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;./../../this-is-a-news-sample/index.html#comment-4&quot;&gt;Oliver Queen&lt;/a&gt;.
+
+Nice Theme !!! :)]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="./../../this-is-a-news-sample/index.html#comment-4">Oliver Queen</a>.</p>
+<p>Nice Theme !!! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre This is a News sample por Oliver Queen		</title>
+		<link>./../../this-is-a-news-sample/index.html#comment-4</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2015 15:02:03 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?p=154#comment-4</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;./../../this-is-a-news-sample/index.html#comment-3&quot;&gt;woadmin&lt;/a&gt;.
+
+Hi woadmin,
+This is a reply! ;)]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="./../../this-is-a-news-sample/index.html#comment-3">woadmin</a>.</p>
+<p>Hi woadmin,<br />
+This is a reply! 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre Lorem ispum project por Oliver Queen		</title>
+		<link>./../../project/lipsum-project/index.html#comment-10</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2015 14:56:14 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=219#comment-10</guid>
+
+					<description><![CDATA[It&#039;s awesome! :)]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s awesome! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

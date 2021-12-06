@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; Cloud Games</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Jogos Click to Play via nuvem</description>
+	<lastBuildDate>Fri, 04 Dec 2015 22:51:31 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-fav-cloud-games-32x32.png</url>
+	<title>News &#8211; Cloud Games</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Demo post 1</title>
+		<link>./../../../demo-post-1-2/index.html</link>
+					<comments>./../../../demo-post-1-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2015 21:41:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://alka-web.com/post1</guid>
+
+					<description><![CDATA[Header Level 2 with additional text Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>Header Level 2 with <span style="color: #ff6600">additional text</span></h2>
+<ol>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+</ol>
+<p><img src="http://lorempixum.com/300/200" alt="Random image courtesy of LoremPixum.com" /></p>
+<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>
+<p><img src="http://lorempixum.com/300/200" alt="Random image courtesy of LoremPixum.com" /></p>
+<p><img src="http://lorempixum.com/300/200" alt="Random image courtesy of LoremPixum.com" /></p>
+<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../demo-post-1-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>This is a News sample</title>
+		<link>./../../../this-is-a-news-sample/index.html</link>
+					<comments>./../../../this-is-a-news-sample/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sat, 23 May 2015 17:58:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[test]]></category>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?p=154</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor lorem, sed cursus justo. Donec sem neque, bibendum vitae diam non, consequat pulvinar magna. Morbi tellus leo, gravida non libero ut, condimentum tempor metus. Nullam cursus nibh elit, at sodales tellus bibendum eu. In a accumsan tortor, eget sollicitudin odio. Donec tincidunt convallis justo, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor lorem, sed cursus justo. Donec sem <strong>neque</strong>, bibendum vitae diam non, consequat pulvinar magna. Morbi tellus leo, gravida non libero ut, condimentum tempor metus. <em>Nullam cursus nibh elit, at sodales tellus bibendum eu. In a accumsan tortor, eget sollicitudin odio.</em> Donec tincidunt convallis justo, sed aliquam tortor scelerisque ut. Praesent iaculis lacus nec fringilla efficitur.</p>
+<blockquote><p>Praesent sagittis auctor dui at vulputate. Suspendisse id rutrum ex. Morbi ultrices semper dolor interdum finibus. Suspendisse lorem metus, semper ut sapien in, ornare porttitor eros. Integer semper elit ut accumsan varius.</p></blockquote>
+<hr />
+<p>Aenean et nulla nibh. Nullam tristique nulla sapien, id eleifend lacus semper ut. Quisque venenatis lorem at risus posuere pharetra. Quisque a eros nec elit finibus sodales. Integer euismod elit augue, ultricies tempus quam blandit vitae. <a href="http://google.com/" target="_blank">Proin odio justo</a>, auctor sed est quis, vehicula porttitor lacus.</p>
+<ul>
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+</ul>
+<p>Duis in placerat massa. Nullam lobortis sem lectus, eu cursus metus condimentum in. In euismod fermentum euismod. Morbi vel massa id augue tempus maximus non eget nisi. Aliquam fermentum posuere vulputate. <del>Pellentesque vitae eros auctor</del>, vulputate arcu non, scelerisque ex. Praesent venenatis lacinia consectetur. Suspendisse est tellus, convallis vel lacinia eu, aliquet nec turpis. Donec sed leo sed sapien maximus pellentesque non et lacus. Pellentesque arcu elit, varius et elit non, imperdiet fermentum massa.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../this-is-a-news-sample/feed/index.html</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Demo post 9</title>
+		<link>./../../../demo-post-9-2/index.html</link>
+					<comments>./../../../demo-post-9-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2014 22:21:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://alka-web.com/post9</guid>
+
+					<description><![CDATA[Table Caption Header Header Header Content 1 a Content 2 b Table Caption Header Header Header Content 1 a Content 2 b Definition list Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<dl>
+<dt>Definition list</dt>
+<dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna<br />
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea<br />
+commodo consequat.</dd>
+<dt>Lorem ipsum dolor sit amet</dt>
+<dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna<br />
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea<br />
+commodo consequat.</dd>
+</dl>
+<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../demo-post-9-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Demo post 12</title>
+		<link>./../../../demo-post-12/index.html</link>
+					<comments>./../../../demo-post-12/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2014 19:57:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://alka-web.com/post12</guid>
+
+					<description><![CDATA[Header Level 2 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. #header h1 a { display: block; width: 300px; height: 80px; } Table Caption Header Header Header Content 1 a Content 2 b Table Caption Header Header Header Content 1 a Content 2 b]]></description>
+										<content:encoded><![CDATA[<h2>Header Level 2</h2>
+<ol>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+</ol>
+<pre><code>
+#header h1 a { 
+	display: block; 
+	width: 300px; 
+	height: 80px; 
+}
+</code></pre>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../demo-post-12/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Demo post 7</title>
+		<link>./../../../demo-post-7-2/index.html</link>
+					<comments>./../../../demo-post-7-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sun, 11 Aug 2013 03:31:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://alka-web.com/post7</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<pre><code>
+#header h1 a { 
+	display: block; 
+	width: 300px; 
+	height: 80px; 
+}
+</code></pre>
+<p><img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /></p>
+<dl>
+<dt>Definition list</dt>
+<dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna<br />
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea<br />
+commodo consequat.</dd>
+<dt>Lorem ipsum dolor sit amet</dt>
+<dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna<br />
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea<br />
+commodo consequat.</dd>
+</dl>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+<h2>Header Level 2</h2>
+<ol>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+</ol>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../demo-post-7-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Demo post 1</title>
+		<link>./../../../demo-post-1/index.html</link>
+					<comments>./../../../demo-post-1/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2013 05:25:47 +0000</pubDate>
+				<category><![CDATA[Endrerit]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://alka-web.com/post1</guid>
+
+					<description><![CDATA[Header Level 3 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /><br />
+<img src="http://lorempixum.com/100/100" alt="Random image courtesy of LoremPixum.com" /></p>
+<p><img src="http://lorempixum.com/300/200" alt="Random image courtesy of LoremPixum.com" /></p>
+<h3>Header Level 3</h3>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+</ul>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<table summary="Table summary">
+<caption>Table Caption</caption>
+<thead>
+<tr>
+<th>Header</th>
+<th>Header</th>
+<th>Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>2</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
+<pre><code>
+#header h1 a { 
+	display: block; 
+	width: 300px; 
+	height: 80px; 
+}
+</code></pre>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../demo-post-1/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Demo post 3</title>
+		<link>./../../../demo-post-3/index.html</link>
+					<comments>./../../../demo-post-3/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 28 Feb 2013 04:17:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Non classifié(e)]]></category>
+		<guid isPermaLink="false">http://alka-web.com/post3</guid>
+
+					<description><![CDATA[#header h1 a { display: block; width: 300px; height: 80px; } Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus [&#8230;]]]></description>
+										<content:encoded><![CDATA[<pre><code>
+#header h1 a { 
+	display: block; 
+	width: 300px; 
+	height: 80px; 
+}
+</code></pre>
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
+</blockquote>
+<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
+<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../demo-post-3/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

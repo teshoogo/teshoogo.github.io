@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marketing &#8211; Cloud Games</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Jogos Click to Play via nuvem</description>
+	<lastBuildDate>Mon, 07 Dec 2015 14:47:12 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-fav-cloud-games-32x32.png</url>
+	<title>Marketing &#8211; Cloud Games</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Project Example</title>
+		<link>./../../../project/project-example/index.html</link>
+					<comments>./../../../project/project-example/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 15:51:23 +0000</pubDate>
+				<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=221</guid>
+
+					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+<blockquote><p>Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p></blockquote>
+<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../project/project-example/feed/index.html</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem ispum project</title>
+		<link>./../../../project/lipsum-project/index.html</link>
+					<comments>./../../../project/lipsum-project/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 15:49:53 +0000</pubDate>
+				<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=219</guid>
+
+					<description><![CDATA[&#160; Just adding. &#160; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse gravida eget tellus sit amet auctor. Donec non suscipit est. Nam id dolor dictum, rutrum tellus a, suscipit metus. Vestibulum dui nunc, pretium eu tincidunt nec, pretium at nunc. Quisque sagittis luctus sodales. Phasellus consequat purus eu venenatis eleifend. Nullam eget blandit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Just adding.</p>
+<p>&nbsp;</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse gravida eget tellus sit amet auctor. Donec non suscipit est. Nam id dolor dictum, rutrum tellus a, suscipit metus. Vestibulum dui nunc, pretium eu tincidunt nec, pretium at nunc. Quisque sagittis luctus sodales. Phasellus consequat purus eu venenatis eleifend. Nullam eget blandit diam. Quisque eget tristique purus, at euismod leo. Sed vitae hendrerit neque, quis suscipit nisi. Integer semper eros non consectetur commodo. Donec mollis viverra nunc et auctor.</p>
+<p>Cras eu orci eget orci sagittis pellentesque. Ut venenatis congue ante, sed dapibus sapien feugiat eu. Vivamus faucibus sapien enim. Morbi tempus vel libero rhoncus placerat. Mauris lacinia odio nec laoreet malesuada. Proin placerat nulla at ultrices vulputate. Integer sit amet mollis enim. Vestibulum metus lectus, venenatis eu finibus non, ultrices id orci. Praesent id velit arcu.</p>
+<p>Nulla viverra ullamcorper nisi eu cursus. Proin ut sollicitudin elit. Nunc in commodo neque. Ut ut elit non neque interdum tempor et vel nulla. Ut pretium ac velit eu fringilla. Curabitur id tincidunt est. Suspendisse accumsan, mi sed fermentum dapibus, lorem metus scelerisque est, lobortis tempus metus massa nec metus. Phasellus quis blandit neque, vel placerat tortor. Aenean at ullamcorper orci. Cras eros est, bibendum in tellus a, bibendum tincidunt magna. Maecenas sit amet imperdiet massa. Suspendisse vulputate, ex eu lobortis euismod, massa lorem tempus dolor, eu commodo sapien sapien ac tortor. Nullam at nisi porta, finibus lorem quis, imperdiet tellus. Sed ultricies porta justo, id varius massa ultrices ac.<code></code></p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../project/lipsum-project/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

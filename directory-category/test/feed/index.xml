@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>test &#8211; Cloud Games</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Jogos Click to Play via nuvem</description>
+	<lastBuildDate>Wed, 16 Sep 2015 19:53:07 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-fav-cloud-games-32x32.png</url>
+	<title>test &#8211; Cloud Games</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Another Example</title>
+		<link>./../../../item/462-2/index.html</link>
+					<comments>./../../../item/462-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2015 19:51:39 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=directory&#038;p=462</guid>
+
+					<description><![CDATA[You can add whatever you want, it's an excerpt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at feugiat massa, at mollis diam. Pellentesque a magna justo. Aenean at augue turpis. Sed quis lacinia nibh. Etiam eleifend tincidunt ligula, eleifend ullamcorper erat ultricies ut. Fusce turpis dui]]></description>
+										<content:encoded><![CDATA[You can add whatever you want, it's an excerpt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at feugiat massa, at mollis diam. Pellentesque a magna justo. Aenean at augue turpis. Sed quis lacinia nibh. Etiam eleifend tincidunt ligula, eleifend ullamcorper erat ultricies ut. Fusce turpis dui]]></content:encoded>
+					
+					<wfw:commentRss>./../../../item/462-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>GUEST RANCH</title>
+		<link>./../../../item/guest-ranch/index.html</link>
+					<comments>./../../../item/guest-ranch/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2015 19:44:21 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=directory&#038;p=458</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at feugiat massa, at mollis diam. Pellentesque a magna justo. Aenean at augue turpis. Sed quis lacinia nibh. Etiam eleifend tincidunt ligula, eleifend ullamcorper erat ultricies ut. Fusce turpis dui.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at feugiat massa, at mollis diam. Pellentesque a magna justo. Aenean at augue turpis. Sed quis lacinia nibh. Etiam eleifend tincidunt ligula, eleifend ullamcorper erat ultricies ut. Fusce turpis dui.]]></content:encoded>
+					
+					<wfw:commentRss>./../../../item/guest-ranch/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WordPress Developer</title>
+		<link>./../../../item/wordpress-developer/index.html</link>
+					<comments>./../../../item/wordpress-developer/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2015 19:39:52 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=directory&#038;p=455</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at feugiat massa, at mollis diam. Pellentesque a magna justo. Aenean at augue turpis. Sed quis lacinia nibh. Etiam eleifend tincidunt ligula, eleifend ullamcorper erat ultricies ut. Fusce turpis dui.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at feugiat massa, at mollis diam. Pellentesque a magna justo. Aenean at augue turpis. Sed quis lacinia nibh. Etiam eleifend tincidunt ligula, eleifend ullamcorper erat ultricies ut. Fusce turpis dui.]]></content:encoded>
+					
+					<wfw:commentRss>./../../../item/wordpress-developer/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

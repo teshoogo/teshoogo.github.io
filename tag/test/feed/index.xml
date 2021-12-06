@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>test &#8211; Cloud Games</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Jogos Click to Play via nuvem</description>
+	<lastBuildDate>Sat, 23 May 2015 17:58:07 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-fav-cloud-games-32x32.png</url>
+	<title>test &#8211; Cloud Games</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>This is a News sample</title>
+		<link>./../../../this-is-a-news-sample/index.html</link>
+					<comments>./../../../this-is-a-news-sample/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sat, 23 May 2015 17:58:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[test]]></category>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?p=154</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor lorem, sed cursus justo. Donec sem neque, bibendum vitae diam non, consequat pulvinar magna. Morbi tellus leo, gravida non libero ut, condimentum tempor metus. Nullam cursus nibh elit, at sodales tellus bibendum eu. In a accumsan tortor, eget sollicitudin odio. Donec tincidunt convallis justo, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor lorem, sed cursus justo. Donec sem <strong>neque</strong>, bibendum vitae diam non, consequat pulvinar magna. Morbi tellus leo, gravida non libero ut, condimentum tempor metus. <em>Nullam cursus nibh elit, at sodales tellus bibendum eu. In a accumsan tortor, eget sollicitudin odio.</em> Donec tincidunt convallis justo, sed aliquam tortor scelerisque ut. Praesent iaculis lacus nec fringilla efficitur.</p>
+<blockquote><p>Praesent sagittis auctor dui at vulputate. Suspendisse id rutrum ex. Morbi ultrices semper dolor interdum finibus. Suspendisse lorem metus, semper ut sapien in, ornare porttitor eros. Integer semper elit ut accumsan varius.</p></blockquote>
+<hr />
+<p>Aenean et nulla nibh. Nullam tristique nulla sapien, id eleifend lacus semper ut. Quisque venenatis lorem at risus posuere pharetra. Quisque a eros nec elit finibus sodales. Integer euismod elit augue, ultricies tempus quam blandit vitae. <a href="http://google.com/" target="_blank">Proin odio justo</a>, auctor sed est quis, vehicula porttitor lacus.</p>
+<ul>
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+</ul>
+<p>Duis in placerat massa. Nullam lobortis sem lectus, eu cursus metus condimentum in. In euismod fermentum euismod. Morbi vel massa id augue tempus maximus non eget nisi. Aliquam fermentum posuere vulputate. <del>Pellentesque vitae eros auctor</del>, vulputate arcu non, scelerisque ex. Praesent venenatis lacinia consectetur. Suspendisse est tellus, convallis vel lacinia eu, aliquet nec turpis. Donec sed leo sed sapien maximus pellentesque non et lacus. Pellentesque arcu elit, varius et elit non, imperdiet fermentum massa.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../this-is-a-news-sample/feed/index.html</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

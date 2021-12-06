@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Help &#8211; Cloud Games</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Jogos Click to Play via nuvem</description>
+	<lastBuildDate>Wed, 02 Dec 2015 11:38:27 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-fav-cloud-games-32x32.png</url>
+	<title>Help &#8211; Cloud Games</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New Help</title>
+		<link>./../../../wiki/new-help/index.html</link>
+					<comments>./../../../wiki/new-help/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2015 22:03:01 +0000</pubDate>
+				<guid isPermaLink="false">./../../../wiki/new-help/index.html</guid>
+
+					<description><![CDATA[This help test wiki]]></description>
+										<content:encoded><![CDATA[<p>This help test wiki </p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/new-help/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Policy</title>
+		<link>./../../../wiki/policy/index.html</link>
+					<comments>./../../../wiki/policy/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 14:14:16 +0000</pubDate>
+				<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=wiki&#038;p=212</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus libero eu auctor mollis. Suspendisse nec purus condimentum, dignissim neque non, mattis orci. Morbi vitae tortor vel sapien laoreet porttitor in sed augue. Vestibulum tempor nisl eu nisi viverra tincidunt. In molestie est quis purus tristique, vitae lobortis mi suscipit. Sed eu ipsum tincidunt, hendrerit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></strong></p>
+<ul>
+<li>Cras finibus libero eu auctor mollis.</li>
+<li>Suspendisse nec purus condimentum, dignissim neque non, mattis orci.</li>
+</ul>
+<ul>
+<li>Morbi vitae tortor vel sapien laoreet porttitor in sed augue.</li>
+<li>Vestibulum tempor nisl eu nisi viverra tincidunt.</li>
+<li>In molestie est quis purus tristique, vitae lobortis mi suscipit.</li>
+<li>Sed eu ipsum tincidunt, hendrerit orci quis, facilisis tellus.</li>
+<li>In vel velit vitae augue luctus varius.</li>
+<li>Integer et felis vitae diam placerat venenatis non sit amet massa.</li>
+</ul>
+<ul>
+<li>Sed in nisl sollicitudin, gravida lorem non, congue orci.</li>
+<li>Etiam vitae est at orci lacinia rutrum.</li>
+<li>Nullam quis nulla et tellus ultricies sodales non id augue.</li>
+<li>Praesent hendrerit sapien vel nulla vehicula pharetra.</li>
+<li>Vivamus eu sem vitae felis auctor sollicitudin in ac massa.</li>
+<li>Nam finibus tellus nec ipsum hendrerit, sit amet fringilla sapien viverra.</li>
+</ul>
+<ul>
+<li>Praesent molestie erat sed urna viverra, eget consectetur libero tincidunt.</li>
+<li>Nulla elementum lectus eu diam rutrum porttitor.</li>
+</ul>
+<ul>
+<li>Ut nec lectus facilisis, tempus nulla in, venenatis erat.</li>
+<li>Nam pretium tellus non vestibulum sollicitudin.</li>
+<li>Ut hendrerit lorem a enim congue luctus.</li>
+<li>Nullam nec nibh sollicitudin tellus gravida vestibulum.</li>
+</ul>
+<ul>
+<li>Aliquam malesuada orci ut mollis dapibus.</li>
+</ul>
+<ul>
+<li>Nam nec eros congue, commodo felis quis, accumsan urna.</li>
+<li>Fusce vitae nisi sit amet tortor hendrerit sollicitudin.</li>
+<li>Nunc cursus odio nec sem rutrum, vitae posuere leo convallis.</li>
+<li>Cras ultricies lacus eget dolor sagittis semper.</li>
+<li>Donec congue sem ut ante hendrerit lobortis.</li>
+</ul>
+<ul>
+<li>Donec eu lacus non tortor varius ornare sed et enim.</li>
+<li>Morbi interdum felis et tincidunt suscipit.</li>
+<li>Nulla ultricies nisl in enim suscipit ultrices.</li>
+<li>Vivamus ac dui scelerisque, volutpat neque at, pretium est.</li>
+</ul>
+<ul>
+<li>Donec varius mauris in nisi consectetur consequat.</li>
+<li>Vestibulum mollis odio id justo aliquet tincidunt.</li>
+</ul>
+<ul>
+<li>Sed scelerisque eros id nisl sodales, et tristique nisi tristique.</li>
+<li>Donec eget justo nec metus pellentesque dictum nec vel quam.</li>
+</ul>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/policy/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Starting guide</title>
+		<link>./../../../wiki/starting-guide/index.html</link>
+					<comments>./../../../wiki/starting-guide/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 14:12:23 +0000</pubDate>
+				<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=wiki&#038;p=210</guid>
+
+					<description><![CDATA[Topic One Topic Two &#160; Topic One Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis mi eu urna placerat pharetra id non nunc. Donec nec justo vel dolor interdum maximus et nec orci. Morbi nec pharetra lectus. Ut quis sapien lorem. Maecenas vel eros convallis, aliquet arcu ac, volutpat lorem. Donec gravida mauris sit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ol>
+<li><a href="#topic-one">Topic One</a></li>
+<li><a href="#topic-two">Topic Two</a></li>
+</ol>
+<p>&nbsp;</p>
+<h3><a name="topic-one">Topic One</a></h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis mi eu urna placerat pharetra id non nunc. <em>Donec nec justo vel dolor interdum maximus et nec orci. Morbi nec pharetra lectus. Ut quis sapien lorem.</em> Maecenas vel eros convallis, aliquet arcu ac, volutpat lorem. Donec gravida mauris sit amet sodales fermentum. Nam eu scelerisque arcu.</p>
+<ul>
+<li>Something</li>
+<li>Something 2</li>
+</ul>
+<p>Aenean egestas diam quis porttitor pharetra. Integer sed urna laoreet, condimentum justo sed, vestibulum metus. Maecenas congue lobortis enim, nec blandit augue porttitor vitae. Aliquam erat volutpat. Nullam volutpat interdum sagittis. Cras lectus arcu, congue ut sapien in, viverra vulputate ipsum. Curabitur eget interdum felis. Donec enim quam, aliquet at purus non, ullamcorper varius tortor.</p>
+<blockquote><p>Praesent nulla ante, elementum ornare fringilla in, viverra eu quam. Curabitur at placerat mi. Nunc scelerisque nulla ac ex mollis facilisis. Aliquam convallis ultrices dui, a sodales ex dapibus eu. Quisque egestas venenatis elit at porttitor. Sed neque justo, congue sit amet ex sed, hendrerit hendrerit nulla. Phasellus pulvinar, quam sed ultrices pellentesque, nisl dolor fermentum tellus, id cursus libero lectus at nisi. Integer ullamcorper nulla eget risus dictum fringilla.</p></blockquote>
+<p>Vivamus viverra mauris in sapien imperdiet imperdiet. Nam sed libero a nibh vulputate congue vel vitae nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla facilisi. Donec dapibus tellus sit amet lorem sollicitudin congue. Maecenas eu metus tortor. Nulla nec turpis id turpis efficitur eleifend. Curabitur id pellentesque nulla, nec sagittis turpis. Curabitur elit quam, viverra at massa vel, auctor pharetra elit. Mauris a malesuada nunc. Fusce in eros blandit, blandit velit quis, auctor massa. Suspendisse iaculis dapibus accumsan. Sed mollis vestibulum erat sit amet dapibus. Proin cursus finibus nulla id laoreet. Nullam varius risus eros, viverra pharetra massa molestie in.</p>
+<h3><a name="topic-two">Topic Two</a></h3>
+<p>Proin in vulputate est. Sed elementum, massa nec lobortis posuere, nibh risus euismod tellus, in congue mauris purus sed felis. Mauris pharetra nec neque at interdum. Proin a elit vel nisl dapibus interdum nec aliquet tellus. Morbi faucibus tellus augue, in aliquet risus dignissim et. Ut sagittis efficitur lacinia. Aenean porttitor massa nec commodo dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce eleifend mattis ligula, vel lacinia velit luctus sed.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/starting-guide/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

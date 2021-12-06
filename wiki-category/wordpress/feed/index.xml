@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wordpress &#8211; Cloud Games</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Jogos Click to Play via nuvem</description>
+	<lastBuildDate>Sun, 06 Dec 2015 21:33:02 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-fav-cloud-games-32x32.png</url>
+	<title>Wordpress &#8211; Cloud Games</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>It’s awesome</title>
+		<link>./../../../wiki/its-awesome/index.html</link>
+					<comments>./../../../wiki/its-awesome/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2015 22:06:20 +0000</pubDate>
+				<guid isPermaLink="false">./../../../wiki/its-awesome/index.html</guid>
+
+					<description><![CDATA[Post something new here&#8230;. and some special character ♠ Wow being able to post directly onto the page is perfect for an intranet.]]></description>
+										<content:encoded><![CDATA[<p><strong>Post</strong> <em>something</em> <span style="color: #ff6600">new</span> <span style="text-decoration: underline">here</span>&#8230;. and some special character <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2660.png" alt="♠" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Wow being able to post directly onto the page is perfect for an intranet.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/its-awesome/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sub category test</title>
+		<link>./../../../wiki/sub-category-test/index.html</link>
+					<comments>./../../../wiki/sub-category-test/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2015 22:04:26 +0000</pubDate>
+				<guid isPermaLink="false">./../../../wiki/sub-category-test/index.html</guid>
+
+					<description><![CDATA[Test This is going to be another test-text.]]></description>
+										<content:encoded><![CDATA[<h2><strong>Test</strong></h2>
+<p style="text-align: center"><span style="text-decoration: underline">This is going to be another test-<span style="color: #0000ff;text-decoration: underline">text</span>.</span></p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/sub-category-test/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Awesome theme</title>
+		<link>./../../../wiki/awesome-theme/index.html</link>
+					<comments>./../../../wiki/awesome-theme/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2015 23:19:12 +0000</pubDate>
+				<guid isPermaLink="false">./../../../wiki/awesome-theme/index.html</guid>
+
+					<description><![CDATA[This is just a test]]></description>
+										<content:encoded><![CDATA[<p>This is <strong>just</strong> a test</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/awesome-theme/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Writing Post</title>
+		<link>./../../../wiki/writing-post/index.html</link>
+					<comments>./../../../wiki/writing-post/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 14:09:23 +0000</pubDate>
+				<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=wiki&#038;p=208</guid>
+
+					<description><![CDATA[Posts are entries that display in reverse order on your home page. Posts usually have comments fields beneath them and are included in your site&#8217;s RSS feed. To write a post: Log in to your WordPress Administration Panel (Dashboard). Click the &#8216;Posts&#8216; tab. Click the &#8216;Add New&#8216; sub-tab. Start filling in the blanks: enter your [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Posts are entries that display in reverse order on your home page. Posts usually have comments fields beneath them and are included in your site&#8217;s RSS feed.</p>
+<p>To write a post:</p>
+<ol>
+<li>Log in to your WordPress <a class="mw-redirect" title="Administration Panels" href="https://codex.wordpress.org/Administration_Panels">Administration Panel</a> (Dashboard).</li>
+<li>Click the &#8216;<a class="mw-redirect" title="Administration Panels" href="https://codex.wordpress.org/Administration_Panels#Posts_-_Make_some_content">Posts</a>&#8216; tab.</li>
+<li>Click the &#8216;<a class="mw-redirect" title="Administration Panels" href="https://codex.wordpress.org/Administration_Panels#Posts_-_Make_some_content">Add New</a>&#8216; sub-tab.</li>
+<li>Start filling in the blanks: enter your post title in the upper field, and enter your post body content in the main post editing box below it.</li>
+<li>As needed, select a category, add tags, and make other selections from the sections below the post. (Each of these sections is explained below.)</li>
+<li>When you are ready, click <b>Publish</b>.</li>
+</ol>
+<h2>Screen Options</h2>
+<p>There are more editing fields available to you than you see on first login. The <a title="Administration Screens" href="https://codex.wordpress.org/Administration_Screens#Screen_Options">Screen Options</a> area allows you to choose which Post Fields are displayed or hidden from your editing area, which allows you to minimize clutter and customize according to your needs.</p>
+<p>You&#8217;ll find the Screen Options tab at the very top of your screen, and if you click on it, you&#8217;ll see a list of available editing boxes that you can use. Check the box for each Post Field you want displayed, or uncheck the box to hide that module. Click the Screen Options tab again to close the tab.</p>
+<p><b>Note:</b> As of WordPress <a title="Version 3.1" href="https://codex.wordpress.org/Version_3.1">version 3.1</a>, some <a class="mw-redirect" title="Administration Panels" href="https://codex.wordpress.org/Administration_Panels#Screen_Options">screen options</a> on the Post Administration Panel are hidden by default, and you can check these items to set them to display regularly. This includes: Excerpt, Post Author, Discussion, Custom Fields, Slug, Comments, Send Trackbacks, Revisions.</p>
+<p>Once you&#8217;ve customized how your editing screen works, your options are saved so you don&#8217;t have to select or hide them again next time you log in.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/writing-post/feed/index.html</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Understanding Pages</title>
+		<link>./../../../wiki/wordpress-pages/index.html</link>
+					<comments>./../../../wiki/wordpress-pages/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 14:06:11 +0000</pubDate>
+				<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=wiki&#038;p=204</guid>
+
+					<description><![CDATA[Soooo. In WordPress, you can write either posts or Pages. When you&#8217;re writing a regular blog entry, you write a post. Posts, in a default setup, appear in reverse chronological order on your blog&#8217;s home page. Pages are for content such as &#8220;About,&#8221; &#8220;Contact,&#8221; etc. Pages live outside of the normal blog chronology, and are [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Soooo. In WordPress, you can write either posts or Pages. When you&#8217;re writing a regular blog entry, you write a post. Posts, in a default setup, appear in reverse chronological order on your blog&#8217;s home page. Pages are for content such as &#8220;About,&#8221; &#8220;Contact,&#8221; etc. Pages live outside of the normal blog chronology, and are often used to present timeless information about yourself or your site &#8212; information that is always applicable. You can use Pages to organize and manage any content.</p>
+<p>In addition to the generally required &#8220;About&#8221; and &#8220;Contact&#8221; Pages, other examples of common pages include Copyright, Disclosure, Legal Information, Reprint Permissions, Company Information, and Accessibility Statement.</p>
+<p>In general, Pages are very similar to Posts in that they both have Titles and Content and can use your WordPress Theme templates files to maintain a consistent look throughout your site. Pages, though, have several key distinctions that make them quite different from Posts.</p>
+<p><b>What Pages Are:</b></p>
+<ul>
+<li>Pages are for content that is less time-dependent than Posts.</li>
+<li>Pages can be organized into pages and <a href="https://codex.wordpress.org/Pages#Organizing_Your_Pages">subpages</a>.</li>
+<li>Pages can use different <a title="Page Templates" href="https://codex.wordpress.org/Page_Templates">Page Templates</a> which can include <a class="mw-redirect" title="Stepping Into Templates" href="https://codex.wordpress.org/Stepping_Into_Templates">Template Files</a>, <a title="Template Tags" href="https://codex.wordpress.org/Template_Tags">Template Tags</a> and other PHP code.</li>
+<li>Pages may have a more complex array of readily available display adjustments when using sophisticated Themes with extensive customization.</li>
+<li>In essence, Pages are for non-blog content. It is possible to remove all or most Posts from a WordPress installation, and thus to create a standard non-blog website.</li>
+</ul>
+<p><b>What Pages are Not:</b></p>
+<ul>
+<li>Pages are not Posts, nor are they excerpted from larger works of fiction. They do not cycle through your blog&#8217;s main page. WordPress Plugins are available to change the defaults if necessary.</li>
+<li>Pages cannot be associated with Categories and cannot be assigned Tags. The organizational structure for Pages comes only from their hierarchical interrelationships, and not from Tags or Categories.</li>
+<li>Pages are not files. They are stored in your database just like Posts are.</li>
+<li>Although you can put Template Tags and PHP code into a Page Template file, you cannot put these into the Page or Post content without a WordPress Plugin like <a class="external text" href="http://wordpress.org/extend/plugins/exec-php/">Exec-PHP</a> which overwrites the code filtering process.</li>
+<li>Pages are not included in your site&#8217;s feed.</li>
+<li>Pages and Posts may attract attention in different ways from humans or search engines.</li>
+<li>Pages (or a specific post) can be set as a <a title="Creating a Static Front Page" href="https://codex.wordpress.org/Creating_a_Static_Front_Page">static front page</a> if desired with a separate Page set for the latest blog posts, typically named &#8220;blog.&#8221;</li>
+</ul>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/wordpress-pages/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Common Installation Problems</title>
+		<link>./../../../wiki/common-installation-problems/index.html</link>
+					<comments>./../../../wiki/common-installation-problems/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 14:04:12 +0000</pubDate>
+				<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=wiki&#038;p=201</guid>
+
+					<description><![CDATA[The following are some of the most common installation problems. For more information and troubleshooting for problems with your WordPress installation, check out FAQ Installation and FAQ Troubleshooting. I see a directory listing rather than a web page. The web server needs to be told to view index.php by default. In Apache, use the DirectoryIndex [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The following are some of the most common installation problems. For more information and troubleshooting for problems with your WordPress installation, check out <a title="FAQ Installation" href="https://codex.wordpress.org/FAQ_Installation">FAQ Installation</a> and <a title="FAQ Troubleshooting" href="https://codex.wordpress.org/FAQ_Troubleshooting">FAQ Troubleshooting</a>.</p>
+<h3>I see a directory listing rather than a web page.</h3>
+<p>The web server needs to be told to view <tt>index.php</tt> by default. In Apache, use the <tt>DirectoryIndex index.php</tt> directive. The simplest option is to create a file named <tt>.htaccess</tt> in the installed directory and place the directive there. Another option is to add the directive to the web server&#8217;s configuration files.</p>
+<h3>I see lots of Headers already sent errors. How do I fix this?</h3>
+<p>You probably introduced a syntax error in editing <tt>wp-config.php</tt>.</p>
+<ol>
+<li>Download <tt>wp-config.php</tt> (if you don&#8217;t have <a title="Glossary" href="https://codex.wordpress.org/Glossary#Shell">shell</a> access).</li>
+<li>Open it in a <a title="Glossary" href="https://codex.wordpress.org/Glossary#Text_editor">text editor</a>.</li>
+<li>Check that the first line contains nothing but <tt>&lt;?php</tt>, and that there is <b>no</b> text before it (not even whitespace).</li>
+<li>Check that the last line contains nothing but <tt>?&gt;</tt>, and that there is <b>no</b> text after it (not even whitespace).</li>
+<li>If your text editor saves as Unicode, make sure it adds <b>no byte order mark (BOM)</b>. Most Unicode-enabled text editors do not inform the user whether or not it adds a BOM to files; if so, try using a different text editor.</li>
+<li>Save the file, upload it again if necessary, and reload the page in your browser.</li>
+</ol>
+<p>&nbsp;</p>
+<h3><b>My page comes out gibberish. When I look at the source I see a lot of &#8220;<tt>&lt;?php ?&gt;</tt>&#8221; tags.</b></h3>
+<p>If the <tt>&lt;?php ?&gt;</tt> tags are being sent to the browser, it means your <a title="Glossary" href="https://codex.wordpress.org/Glossary#PHP">PHP</a> is not working properly. All PHP code is supposed to be executed <i>before</i> the server sends the resulting <a title="Glossary" href="https://codex.wordpress.org/Glossary#HTML">HTML</a> to your web browser. (That&#8217;s why it&#8217;s called a <i>pre</i>processor.) Make sure your web server meets the requirements to run WordPress, that PHP is installed and configured properly, or contact your hosting provider or system administrator for assistance.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/common-installation-problems/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Installing WordPress</title>
+		<link>./../../../wiki/installing-wordpress/index.html</link>
+					<comments>./../../../wiki/installing-wordpress/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[teshoogo]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 13:57:32 +0000</pubDate>
+				<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=wiki&#038;p=197</guid>
+
+					<description><![CDATA[[section is_fullwidth=&#8221;&#8221; background_color=&#8221;&#8221; background_image=&#8221;&#8221; video=&#8221;&#8221; auto_generated=&#8221;1&#8243; _made_with_builder=&#8221;true&#8221;][row][column width=&#8221;1_1&#8243; extraclasses=&#8221;&#8221; _made_with_builder=&#8221;true&#8221;][text_block text=&#8221;&#60;p&#62;&#60;strong&#62;This is just an example for Woffice.&#60;/strong&#62;&#60;/p&#62;&#60;p&#62;WordPress is well-known for its ease of installation. Under most circumstances, installing WordPress is a very simple process and takes less than five minutes to complete. Many web hosts now offer tools (e.g. Fantastico) to automatically install WordPress for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>[section is_fullwidth=&#8221;&#8221; background_color=&#8221;&#8221; background_image=&#8221;&#8221; video=&#8221;&#8221; auto_generated=&#8221;1&#8243; _made_with_builder=&#8221;true&#8221;][row][column width=&#8221;1_1&#8243; extraclasses=&#8221;&#8221; _made_with_builder=&#8221;true&#8221;][text_block text=&#8221;&lt;p&gt;&lt;strong&gt;This is just an example for Woffice.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;WordPress is well-known for its ease of installation. Under most circumstances, installing WordPress is a very simple process and takes less than five minutes to complete. Many web hosts now offer tools (e.g. Fantastico) to automatically install WordPress for you. However, if you wish to install WordPress yourself, the following guide will help. Now with Automatic Upgrade,&amp;nbsp;&lt;a class=&quot;mw-redirect&quot; style=&quot;text-decoration: none; color: #4ca6cf; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #dfdfdf;&quot; title=&quot;Upgrading WordPress&quot; href=&quot;https://codex.wordpress.org/Upgrading_WordPress&quot;&gt;upgrading&lt;/a&gt;&amp;nbsp;is even easier.&lt;/p&gt;&lt;p&gt;The following installation guide will help you, whether you go for the&amp;nbsp;&lt;i&gt;Famous 5 Minute Installation&lt;/i&gt;, or require the more detailed installation guide.&lt;/p&gt;&#8221; _made_with_builder=&#8221;true&#8221;][/text_block][/column][/row][row][column width=&#8221;1_1&#8243; extraclasses=&#8221;&#8221; _made_with_builder=&#8221;true&#8221;][woffice_button label=&#8221;Learn More&#8221; link=&#8221;https://codex.wordpress.org/Installing_WordPress&#8221; target=&#8221;_blank&#8221; icon=&#8221;fa fa-book&#8221; _made_with_builder=&#8221;true&#8221;][/woffice_button][/column][/row][/section]</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wiki/installing-wordpress/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Project Example	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Jogos Click to Play via nuvem</description>
+	<lastBuildDate>Mon, 07 Dec 2015 14:47:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Por: Oliver Queen		</title>
+		<link>./../index.html#comment-27</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 11:09:09 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=221#comment-27</guid>
+
+					<description><![CDATA[Done!]]></description>
+			<content:encoded><![CDATA[<p>Done!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Felicity Smoak		</title>
+		<link>./../index.html#comment-23</link>
+
+		<dc:creator><![CDATA[Felicity Smoak]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 03:35:20 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=221#comment-23</guid>
+
+					<description><![CDATA[This is just reply comment test]]></description>
+			<content:encoded><![CDATA[<p>This is just reply comment test</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oliver Queen		</title>
+		<link>./../index.html#comment-20</link>
+
+		<dc:creator><![CDATA[Oliver Queen]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 01:19:30 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=221#comment-20</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;./../index.html#comment-14&quot;&gt;woadmin&lt;/a&gt;.
+
+Testing reply, looks good]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="./../index.html#comment-14">woadmin</a>.</p>
+<p>Testing reply, looks good</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: woadmin		</title>
+		<link>./../index.html#comment-14</link>
+
+		<dc:creator><![CDATA[woadmin]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 17:52:14 +0000</pubDate>
+		<guid isPermaLink="false">http://alka-web.com/woffice/?post_type=project&#038;p=221#comment-14</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla orci, accumsan et tellus quis, bibendum hendrerit odio. Nam eu ligula ipsum. Duis sit amet augue bibendum elit tincidunt pellentesque nec id neque. Nulla facilisi. Suspendisse ac placerat erat. Quisque iaculis nulla sollicitudin diam lobortis, sed varius nulla viverra. ]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla orci, accumsan et tellus quis, bibendum hendrerit odio. Nam eu ligula ipsum. Duis sit amet augue bibendum elit tincidunt pellentesque nec id neque. Nulla facilisi. Suspendisse ac placerat erat. Quisque iaculis nulla sollicitudin diam lobortis, sed varius nulla viverra. </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
